@@ -7,14 +7,12 @@ class TextConstants {
   static const String gizmoGrub = 'GizmoGrub';
   static const String orderYourFavouriteFood = 'Order your Device Now!';
 
-  static const String profileIcon = 'assets/images/profile_photo.jpg';
+  static const String profileIcon = 'assets/images/profile_photo.png';
   static const String searchIconImage = 'assets/images/search_icon.png';
-  static const String searchIconImageSvg = 'assets/images/search_icon_svg.png';
-  static const String settingSlidersImageIcon =
-      "assets/images/settings_sliders.svg";
   static const String settingSlidersImageIconPng =
-      "assets/images/settings_sliders_png.png";
+      "assets/images/settings_sliders.png";
   static const String heartIconImage = "assets/images/hear_icon.png";
+
   static const String backArrowIconImage =
       "assets/images/back_arrow_material.png";
   static const String lineImage = "assets/images/line_image.png";
@@ -25,6 +23,7 @@ class TextConstants {
   static const String chatIconImage = "assets/images/chat_icon.png";
   static const String wishlistIconImage = "assets/images/whish_list_icon.png";
   static const String addIconImage = "assets/images/add_icon.png";
+
   static const String burgerImage1 = "assets/images/burger_image_1.png";
   static const String burgerImage2 = "assets/images/burger_image_2.png";
 
@@ -32,8 +31,8 @@ class TextConstants {
   static const String iphoneImage2 = "assets/images/iphone_2.png";
   static const String iphoneImage3 = "assets/images/iphone_3.png";
 
-  static const String editIconPng = "assets/images/edit_icon_png.png";
-  static const String signOut = "assets/images/sign-out.png";
+  static const String editIconPng = "assets/images/edit_icon.png";
+  static const String signOut = "assets/images/sign_out.png";
 
   static const String overlayBurgerImage1 =
       "assets/images/overlay_burger_image_2.png";
