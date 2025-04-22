@@ -7,11 +7,10 @@ import 'package:gizmogrub_lints_localization/features/product_details/domain/rep
 import 'package:gizmogrub_lints_localization/features/product_details/domain/use_cases/product_details_use_cases.dart';
 import 'package:gizmogrub_lints_localization/features/product_details/presentation/product_details_bloc/product_details_bloc.dart';
 import 'package:gizmogrub_lints_localization/features/product_listing/data/data_source/product_listing_data_source.dart';
+import 'package:gizmogrub_lints_localization/features/product_listing/data/repository_impl/product_listing_repository.dart';
+import 'package:gizmogrub_lints_localization/features/product_listing/domain/repository/product_listing_repository.dart';
 import 'package:gizmogrub_lints_localization/features/product_listing/domain/use_cases/product_listing_use_cases.dart';
 import 'package:gizmogrub_lints_localization/features/product_listing/presentation/prodcut_listing_bloc/product_items_bloc.dart';
-
-import '../../features/product_listing/data/repository_impl/product_listing_repository.dart';
-import '../../features/product_listing/domain/repository/product_listing_repository.dart';
 
 final GetIt injector = GetIt.instance;
 

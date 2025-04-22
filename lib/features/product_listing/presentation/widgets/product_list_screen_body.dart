@@ -71,7 +71,7 @@ class ProductListScreenBody extends StatelessWidget {
 
           const SizedBox(height: 40),
 
-          // todo: we should not give flex: 9 here, there is an alternative for this
+          // TODO(VISHNU): we should not give flex: 9 here, there is an alternative for this
           const Expanded(flex: 9, child: ProductItemsWidget()),
         ],
       ),
